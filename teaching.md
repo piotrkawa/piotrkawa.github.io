@@ -6,7 +6,9 @@ title: Teaching (PL)
 permalink: /teaching/
 ---
 # 2022
-## Wprowadzenie do algorytmiki
+## [Wprowadzenie do algorytmiki](introduction-to-algorithms.md)
+
+
 
 Prowadzone zajęcia:
 * laboratoria - poniedziałek/TN, 15:15-16:55 @ A-1, s.250
