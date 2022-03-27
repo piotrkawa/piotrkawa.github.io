@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: Introduction To Algorithms
-permalink: /teaching/introduction-to-algorithms-2022/
+title: Wprowadzenie do algorytmiki
+permalink: /teaching/wda-2022/
 ---
 
 Prowadzone zajęcia:
