@@ -1,5 +1,5 @@
 ---
-title: Piotr Kawa
+title: Contact
 ---
 
 * e-mail: piotr.kawa (at) pwr.edu.pl
