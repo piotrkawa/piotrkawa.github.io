@@ -9,8 +9,6 @@ layout: home
 ---
 
 
-# About me
-
 ML Researcher & PhD student at the Department of Theoretical Physics in the Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology.
 
 
