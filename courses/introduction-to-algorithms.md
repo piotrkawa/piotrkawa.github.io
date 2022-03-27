@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Introduction To Algorithms
-permalink: /introduction-to-algorithms-2022/
+permalink: /teaching/introduction-to-algorithms-2022/
 ---
 
 Prowadzone zajęcia:
