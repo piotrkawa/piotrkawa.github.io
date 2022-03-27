@@ -1,5 +1,5 @@
 ---
-title: Wprowadzenie do algorytmiki
+title: Przetwarzanie Informacji Obrazowej
 permalink: /teaching/pio-2022/
 ---
 
