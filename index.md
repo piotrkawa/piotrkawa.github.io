@@ -9,9 +9,10 @@ layout: home
 ---
 
 
-## About me
+# About me
 
-I am a PhD student at the Department of Theoretical Physics in the Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology.
+ML Researcher & PhD student at the Department of Theoretical Physics in the Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology.
+
 
 ## Research interests:
 
