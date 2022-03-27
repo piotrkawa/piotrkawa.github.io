@@ -1,3 +1,10 @@
 theme: minima
 title: Piotr Kawa
 # description: 123123
+
+
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+show_excerpts: false # set to true to show excerpts on the homepage
