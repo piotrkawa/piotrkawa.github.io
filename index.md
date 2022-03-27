@@ -7,3 +7,13 @@
 #
 layout: home
 ---
+
+
+# About me
+
+I am a PhD student at the Department of Theoretical Physics in the Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology.
+
+# Research interests:
+
+Computer Vision, Audio / Speech Processing, Machine Learning, Computer Security
+
