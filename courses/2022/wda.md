@@ -60,9 +60,9 @@ Zasady lista 3:
 
 #### Kartkówka #2
 Merge Sort: 
-1. (5 pkt.) Zmodyfikuj implementację algorytmu Merge Sort o następującą funkcjonalność - zamiast dwóch podzadań `MERGESORT(A, p, s)` i `MERGESORT(A, s + 1, k)` występują cztery podzadania sortujące fragmenty tablicy o rozmiarze czterokrotnie mniejszym od wyjściowego.
-2. (2 pkt.) Podaj równanie rekurencyjne zaimplementowanego algorytmu oraz oblicz jego złożoność obliczeniową (algorytm MST znajduje sie ponizej).
-3. (1 pkt.) Jak różni się liczba porównań pomiędzy standardowym Merge Sort, a 4-way Merge Sort? (wykonaj kilka testów dla tablic różnej wielkości)
+1. (4 pkt.) Zmodyfikuj implementację algorytmu Merge Sort o następującą funkcjonalność - zamiast dwóch podzadań `MERGESORT(A, p, s)` i `MERGESORT(A, s + 1, k)` występują cztery podzadania sortujące fragmenty tablicy o rozmiarze czterokrotnie mniejszym od wyjściowego.
+2. (3 pkt.) Podaj równanie rekurencyjne zaimplementowanego algorytmu oraz oblicz jego złożoność obliczeniową (algorytm MST znajduje sie ponizej).
+3. (2 pkt.) Jak różni się liczba porównań pomiędzy standardowym Merge Sort, a 4-way Merge Sort? (wykonaj kilka testów dla tablic różnej wielkości)
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 2".
 
