@@ -57,3 +57,13 @@ Zasady lista 3:
   * trzecia - wymagana pamięć dodatkowa (jako jednostkę przyjmij rozmiar T lub bajty - skorzystaj np. z sizeof())
 * Wszystkie dodatkowe informacje powinny być przekazywane na standardowe wyjście błędów - powinny to być przynajmniej dwie linie - w pierwszej oryginalna tablica, w drugiej posortowana tablica wynikowa, a w przypadku quick sorta również pozycja i wartość wybranego za każdym razem pivota
 * Spróbuj zmierzyć rzeczywisty czas wykonania poszczególnych wersji sortowania - w tym celu wykorzystaj funkcje systemowe, std::chrono, std::clock lub znane z C time().
+
+#### Kartkówka #2
+Merge Sort: 
+1. (5 pkt.) Zmodyfikuj implementację algorytmu Merge Sort o następującą funkcjonalność - zamiast dwóch podzadań `MERGESORT(A, p, s)` i `MERGESORT(A, s + 1, k)` występują cztery podzadania sortujące fragmenty tablicy o rozmiarze czterokrotnie mniejszym od wyjściowego.
+2. (2 pkt.) Podaj równanie rekurencyjne zaimplementowanego algorytmu oraz oblicz jego złożoność obliczeniową (algorytm MST znajduje sie ponizej).
+3. (1 pkt.) Jak różni się liczba porównań pomiędzy standardowym Merge Sort, a 4-way Merge Sort? (wykonaj kilka testów dla tablic różnej wielkości)
+
+Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 2".
+
+![Master Theorem](/assets/master_theorem.png)
