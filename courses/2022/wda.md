@@ -38,4 +38,4 @@ Obydwie opcje mają być przekazywane na standardowe wejście (np. w implementac
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 1".
 
 
-![Master Theorem](./master_theorem.png)
+![Master Theorem](assets/master_theorem.png)
