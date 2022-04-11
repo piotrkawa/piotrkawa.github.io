@@ -23,7 +23,7 @@ Laboratorium:
 9. wymóg obecności na laboratorium jest regulowany przez regulamin studiów oraz odpowiednie ZW
 10. samodzielność: jeśli nie jest wyraźnie powiedziane inaczej, wszystkie rozwiązania muszą być samodzielne; rozwiązania niesamodzielne skutkują niezaliczeniem kursu bez względu na wcześniej zdobyte punkty.
 
-
+___
 ## Aktualności
 ### 28.03.2022
 
@@ -39,3 +39,21 @@ Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytuł
 
 
 ![Master Theorem](/assets/master_theorem.png)
+
+### 11.04.2022
+
+Zasady lista 3:
+* Dane od użytkowników powinny być przyjmowane na standardowe wejście - poszczególne parametry wejściowe powinny być oddzielane białym znakiem (spacją lub enterem).
+    * długośc tablicy do posortowania (n),
+    * typ zmiennych do posortowania (T),
+    * oddzielone spacją elementy tablicy,
+    * dodatkowe dane (np. w zad. 8 - k).
+* Na liście oceniany będzie zarówno HeapSort (zadania 7,8,9) jak i QuickSort (14,15,17).
+* Dla każdego z algorytmów zliczaj liczbę porównań (elementów z tablicy do posortowania lub elementów pomocnicznych, nie uwzględniaj natomiast porównań iteratorów pętli itp.
+* Dla każdego z algorytmów zlicz dodatkową pamięć niezbędną do przeprowadzenia algorytmu (a więc pomocnicze zmienne, pomocnicze kopie tablicy lub jej fragmentów, nie powinny być zliczane natomiast iteratory, zmienne dodatkowe wykorzystywane do zamienienia dwóch elementów miejscami etc. 
+* Wynik działania programu powinien być przekazywany na standardowe wyjście - domyślnie powinny to być trzy zmienne oddzielone spacją: 
+  * pierwsza określająca długość sortowanej tablicy,
+  * druga - liczba wykonanych porównań,
+  * trzecia - wymagana pamięć dodatkowa (jako jednostkę przyjmij rozmiar T lub bajty - skorzystaj np. z sizeof())
+* Wszystkie dodatkowe informacje powinny być przekazywane na standardowe wyjście błędów - powinny to być przynajmniej dwie linie - w pierwszej oryginalna tablica, w drugiej posortowana tablica wynikowa, a w przypadku quick sorta również pozycja i wartość wybranego za każdym razem pivota
+
