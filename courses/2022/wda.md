@@ -37,15 +37,15 @@ Obydwie opcje mają być przekazywane na standardowe wejście (np. w implementac
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 1".
 
-
-![Master Theorem](/assets/master_theorem.png)
-
 ### 11.04.2022
 
 Zasady lista 3:
 * Dane od użytkowników powinny być przyjmowane na standardowe wejście - poszczególne parametry wejściowe powinny być oddzielane białym znakiem (spacją lub enterem).
     * długośc tablicy do posortowania (n),
-    * typ zmiennych do posortowania (T),
+    * typ zmiennych do posortowania (T):
+      * "int" - oznacza liczby całkowite,
+      * "string" - oznacza zmienne będące ciągami alfanumerycznymi (tablice nie będą zawierać innych znaków),
+      * "float" - liczby zmiennoprzecinkowe,
     * oddzielone spacją elementy tablicy,
     * dodatkowe dane (np. w zad. 8 - k).
 * Na liście oceniany będzie zarówno HeapSort (zadania 7,8,9) jak i QuickSort (14,15,17).
@@ -57,3 +57,6 @@ Zasady lista 3:
   * trzecia - wymagana pamięć dodatkowa (jako jednostkę przyjmij rozmiar T lub bajty - skorzystaj np. z sizeof())
 * Wszystkie dodatkowe informacje powinny być przekazywane na standardowe wyjście błędów - powinny to być przynajmniej dwie linie - w pierwszej oryginalna tablica, w drugiej posortowana tablica wynikowa, a w przypadku quick sorta również pozycja i wartość wybranego za każdym razem pivota
 
+
+
+![Master Theorem](/assets/master_theorem.png)
