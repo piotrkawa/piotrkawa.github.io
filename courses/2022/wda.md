@@ -56,7 +56,4 @@ Zasady lista 3:
   * druga - liczba wykonanych porównań,
   * trzecia - wymagana pamięć dodatkowa (jako jednostkę przyjmij rozmiar T lub bajty - skorzystaj np. z sizeof())
 * Wszystkie dodatkowe informacje powinny być przekazywane na standardowe wyjście błędów - powinny to być przynajmniej dwie linie - w pierwszej oryginalna tablica, w drugiej posortowana tablica wynikowa, a w przypadku quick sorta również pozycja i wartość wybranego za każdym razem pivota
-
-
-
-![Master Theorem](/assets/master_theorem.png)
+* Spróbuj zmierzyć rzeczywisty czas wykonania poszczególnych wersji sortowania - w tym celu wykorzystaj funkcje systemowe, std::chrono, std::clock lub znane z C time().
