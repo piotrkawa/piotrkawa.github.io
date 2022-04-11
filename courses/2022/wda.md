@@ -36,3 +36,6 @@ Rozszerz implementację algorytmu Insertion Sort o następujące funkcjonalnośc
 Obydwie opcje mają być przekazywane na standardowe wejście (np. w implementacji C++ korzystając z funkcji `std::cin`).
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 1".
+
+
+![Master Theorem](./master_theorem.png)
