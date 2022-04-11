@@ -27,7 +27,7 @@ Laboratorium:
 ## Aktualności
 ### 28.03.2022
 
-
+#### Kartkówka #1
 Rozszerz implementację algorytmu Insertion Sort o następujące funkcjonalności:
 
 1. (4 pkt.) wybór sortowania rosnącego bądź malejącego. Flaga 0 oznacza sortowanie rosnące, a 1 sortowanie malejące,
