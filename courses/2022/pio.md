@@ -10,4 +10,4 @@ Zasady zaliczenia kursu oraz listy zadań zostały zamieszczone na stronie wykł
 
 
 
-[LFD wykład](https://drive.google.com/file/d/1MdgrM-s5iacgB6deSn9SItmNX274mOdf/view?usp=sharing)
+[LFD wykład](https://drive.google.com/drive/folders/1IDF13lZ1CFDIOOFlYcjCui2abrN78tR9?usp=sharing)
