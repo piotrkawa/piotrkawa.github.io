@@ -30,7 +30,7 @@ ___
 #### Kartkówka #1
 Rozszerz implementację algorytmu Insertion Sort o następujące funkcjonalności:
 
-1. (4 pkt.) wybór sortowania rosnącego bądź malejącego. Flaga 0 oznacza sortowanie rosnące, a 1 sortowanie malejące,
+1. (4 pkt.) wybór sortowania rosnącego bądź malejącego. Flaga 0 oznacza sortowanie rosnące, a 1 sortowanie malejące.
 2. (4 pkt.) wybór górnego zakresu liczb (x) na jakich operujemy (zakładamy, że sortowane wartości są losowe z przedziału [0, x]).
 
 Obydwie opcje mają być przekazywane na standardowe wejście (np. w implementacji C++ korzystając z funkcji `std::cin`).
@@ -67,3 +67,16 @@ Merge Sort:
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 2".
 
 ![Master Theorem](/assets/master_theorem.png)
+
+#### Kartkówka #3
+
+**Wybierz jedno z zadań**:
+1. (8pkt) QuickSort:
+  * Zaimplementuj procedurę `RANDOMIZED-QUICKSORT` tak by sortowała ona ciągi znaków. Sortowanie powinno wspierac dwa tryby - malejące i rosnące. Flaga 0 oznacza sortowanie rosnące, a 1 sortowanie malejące:
+    * Sortowanie rosnące np. `['small', '42dog', 'dog', 'turtle', '1fluffy', 'corgi']` -> `['1fluffy', '42dog', 'corgi', 'dog', 'small', 'turtle']`
+    * Sortowanie malejące np. `['small', '42dog', 'dog', 'turtle', '1fluffy', 'corgi']` -> `['turtle', 'small', 'dog', 'corgi', '42dog', '1fluffy']`
+
+2. (8pkt.) Heap / HeapSort:
+  * Zmodyfikuj procedurę `HeapSort3` tak by oparta o MinHeap, sortowała liczby naturalne w porządku malejącym.
+
+Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem zawierającym numer wybranego zadania "WDA - Lista 3 (zad. 1/2)".

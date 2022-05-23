@@ -7,7 +7,3 @@ Prowadzone zajęcia:
 * laboratoria - piątek, 09:15-11:00 @ A-1, s.250
 
 Zasady zaliczenia kursu oraz listy zadań zostały zamieszczone na stronie wykładowcy, pod [tym linkiem](https://syga.kft.pwr.edu.pl/courses/pio/lab.html). 
-
-
-
-[LFD wykład](https://drive.google.com/drive/folders/1IDF13lZ1CFDIOOFlYcjCui2abrN78tR9?usp=sharing)
