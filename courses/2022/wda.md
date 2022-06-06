@@ -66,7 +66,7 @@ Merge Sort:
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 2".
 
-![Master Theorem](/assets/master_theorem.png)
+<!-- ![Master Theorem](/assets/master_theorem.png) -->
 
 #### Kartkówka #3
 
@@ -80,3 +80,42 @@ Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytuł
   * Zmodyfikuj procedurę `HeapSort3` tak by oparta o MinHeap, sortowała liczby naturalne w porządku malejącym.
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem zawierającym numer wybranego zadania "WDA - Lista 3 (zad. 1/2)".
+
+
+#### Kartkówka #4
+Wykonaj następujące operacje na listach dwukierunkowych. Wyniki operacji `wypisz` załącz jako tekst w ramach wiadomości email zawierającej kod źródłowy zadania.
+
+
+Uwaga:
+* Indeksy w poleceniu numerowane są od 0 (np. pierwszy element to tablica[0], a trzeci element to tablica[2]),
+* Jeśli nie jest powiedziane inaczej określenie `dodaj do listy` oznacza dodanie wartości na początek listy.
+
+
+Zadanie:
+* (4pkt) Zadanie 1: Wykonaj następujące operacje:
+  1. stwórz listę,
+  2. dodaj do listy wartości: [1,7,5,3,9]
+  3. wypisz wartość długości listy
+  4. usuń wartość 5 (jeśli implementacja opiera się na wskazaniu indeksu - podaj odpowiedni indeks)
+  5. wstaw wartość 13 za wartością 7
+  6. usuń element head
+  7. usuń trzeci element
+  8. wypisz długość listy
+  9. wypisz zawartość listy
+  10. wypisz wartość trzeciego elementu
+
+* (4pkt) Zadanie 2: Wykonaj następujące operacje:
+  1. stwórz listę A
+  2. stwórz listę B
+  3. dodaj do listy A wartości [7,6,2,1]
+  4. dodaj do listy B wartości [3,4,5]
+  5. wypisz wartości listy A i listy B
+  6. odwróć listę B
+  7. wstaw listę B na trzecim miejscu w liście A
+  8. wypisz zawartość listy A
+  9. połącz listę A i B (najpierw A, potem B)
+  10. wypisz zawartość listy A
+  11. wypisz wartość ósmego elementu listy A
+
+
+Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 4".
