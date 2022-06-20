@@ -119,3 +119,25 @@ Zadanie:
 
 
 Proszę o przesłanie kodu źródłowego na maila piotr.kawa@pwr.edu.pl z tytułem "WDA - Lista 4".
+
+
+
+#### Lista #5
+
+Zaliczenie listy odbywa się poprzez omówienie zadań i/lub wykonanie modyfikacji. 
+
+* (8pkt.) Zadanie 1: Wykonaj następujące operacje:
+  1. insert(50)
+  2. insert(30)
+  3. insert(70)
+  4. insert(20)
+  5. insert(40)
+  6. insert(60)
+  7. insert(80)
+  8. inorder(root)
+  9. min()
+  10. max()
+  11. successor(40)
+  12. delete(70)
+  13. inorder(root)
+  14. predecessor(80)
