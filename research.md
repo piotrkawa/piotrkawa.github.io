@@ -13,6 +13,8 @@ permalink: /research/
   * [Implementation](https://github.com/piotrkawa/specrnet)
   * Topics: DeepFake detection, speech processing, audio processing
 
+
+
 * Kawa, P., Plata, M., & Syga, P. **Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake**
   * Proceedings of INTERSPEECH 2022
   * [PDF](https://arxiv.org/abs/2206.13979)
