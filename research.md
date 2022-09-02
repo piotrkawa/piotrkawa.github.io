@@ -7,6 +7,12 @@ permalink: /research/
 ---
 
 ### 2022:
+* Kawa, P., Plata, M., & Syga, P. **SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**
+  * Proceedings of TrustCom 2022
+  * PDF coming soon
+  * [Implementation](https://github.com/piotrkawa/specrnet)
+  * Topics: DeepFake detection, speech processing, audio processing
+
 * Kawa, P., Plata, M., & Syga, P. **Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake**
   * Proceedings of INTERSPEECH 2022
   * [PDF](https://arxiv.org/abs/2206.13979)
