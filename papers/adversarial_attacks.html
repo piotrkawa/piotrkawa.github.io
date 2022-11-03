@@ -55,7 +55,7 @@
     }
 
     audio {
-        width: 250px;
+        width: 350px;
     }
 
     .examples-table {
@@ -69,7 +69,7 @@
 <body>
     <main>
         <div class="title">
-            <h1>Adversarial Attacks on Audio DeepFake Detection and How To Mitigate Them</h1>
+            <h1>Defense against Adversarial Attacks on Audio DeepFake Detection</h1>
             <p>Piotr Kawa*, Marcin Plata*, Piotr Syga</p>
             <p>Department of Artificial Intelligence, Wrocław University of Science and Technology, Poland</p>
             * Equal contribution.
@@ -85,13 +85,15 @@
             Our contribution contains evaluating the robustness of 3 detection architectures against adversarial attacks in two scenarios (white-box and using transferability mechanism) and
             enhancing it later by the use of adversarial training performed by our novel adaptive training method.
             </p>
+
             <section class="attack-section">
+                <h2>Samples</h2>
+                <p>We provide samples of successfully attacked utterances:</p>
                 <h3>FGSM attacks</h3>
                 <table class="examples-table">
                     <tbody>
                         <tr>
-                            <th>Sample name</th>
-                            <th>Original sample</th>
+                            <th>Sample Type</th>
                             <th>FGSM (&epsilon;=0.0005)</th>
                             <th>FGSM (&epsilon;=0.00075)</th>
                             <th>FGSM (&epsilon;=0.001)</th>
@@ -99,13 +101,7 @@
                         <!-- ROW 1  -->
                         <tr>
                             <td>
-                                1.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
-                                    in your browser.</source>
-                                </audio>
+                                Original
                             </td>
                             <td>
                                 <audio controls="">
@@ -128,13 +124,7 @@
                         </tr>
                         <tr>
                             <td>
-                                3.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="wav/reference/ykwk-1108.wav" type="audio/wav">No support for audio tag
-                                    in your browser.</source>
-                                </audio>
+                                Adversarial Attack
                             </td>
                             <td>
                                 <audio controls="">
@@ -164,8 +154,7 @@
                 <table class="examples-table">
                     <tbody>
                         <tr>
-                            <th>Sample name</th>
-                            <th>Original sample</th>
+                            <th>Sample Type</th>
                             <th>PGDL2 (&epsilon;=0.10)</th>
                             <th>PGDL2 (&epsilon;=0.15)</th>
                             <th>PGDL2 (&epsilon;=0.20)</th>
@@ -173,13 +162,7 @@
                         <!-- ROW 1  -->
                         <tr>
                             <td>
-                                1.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
-                                    in your browser.</source>
-                                </audio>
+                                Original
                             </td>
                             <td>
                                 <audio controls="">
@@ -202,13 +185,7 @@
                         </tr>
                         <tr>
                             <td>
-                                3.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="wav/reference/ykwk-1108.wav" type="audio/wav">No support for audio tag
-                                    in your browser.</source>
-                                </audio>
+                                Adversarial Attack
                             </td>
                             <td>
                                 <audio controls="">
@@ -240,8 +217,7 @@
                 <table class="examples-table">
                     <tbody>
                         <tr>
-                            <th>Sample name</th>
-                            <th>Original sample</th>
+                            <th>Sample Type</th>
                             <th>FAB (&eta;=10)</th>
                             <th>FAB (&eta;=20)</th>
                             <th>FAB (&eta;=30)</th>
@@ -249,13 +225,7 @@
                         <!-- ROW 1  -->
                         <tr>
                             <td>
-                                1.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
-                                    in your browser.</source>
-                                </audio>
+                                Original
                             </td>
                             <td>
                                 <audio controls="">
@@ -275,12 +245,7 @@
                         </tr>
                         <tr>
                             <td>
-                                3.wav
-                            </td>
-                            <td>
-                                <audio controls="">
-                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
-                                </audio>
+                                Adversarial Attack
                             </td>
                             <td>
                                 <audio controls="">
