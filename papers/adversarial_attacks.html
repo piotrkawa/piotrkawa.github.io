@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC>
+<html>
+
+<head>
+    </script>
+    <title>Adversarial Attacks on Audio DeepFake Detection and How To Mitigate Them</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" type="text/css">
+    <link rel="icon" href="../../../media/image/favicon.png">
+</head>
+<style>
+    body {
+        background: #f1f1f1;
+        font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        /* padding: 0; */
+        margin: 0;
+    }
+
+    .title {
+        background-color: #95c8bf;
+        /* background-color: #b01f09; */
+        /* color: white; */
+        width: 100%;
+        text-align: center;
+        padding: 30px 0px 30px 0px;
+    }
+
+    .title h1 {
+        margin-top: 0px;
+    }
+
+    .content {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .attack-section {
+        margin-top: 100px;
+    }
+
+    main {
+        font-size: 18px;
+    }
+
+    table {
+        border: none;
+        text-align: center;
+    }
+
+    main table th {
+        height: 60px;
+    }
+
+    main table td {
+        height: 80px;
+    }
+
+    audio {
+        width: 250px;
+    }
+
+    .examples-table {
+        width: 100%;
+    }
+    .justified {
+        text-align:justify;
+    }
+</style>
+
+<body>
+    <main>
+        <div class="title">
+            <h1>Adversarial Attacks on Audio DeepFake Detection and How To Mitigate Them</h1>
+            <p>Piotr Kawa*, Marcin Plata*, Piotr Syga</p>
+            <p>Department of Artificial Intelligence, Wrocław University of Science and Technology, Poland</p>
+            * Equal contribution.
+        </div>
+
+        <section class="content">
+            ArXiV: TBA
+            <h3>Abstract</h3>
+            <p class="justified">Audio DeepFakes are artificially generated utterances created using deep learning methods with the main aim to fool the listeners, most of such audio is highly convincing.
+            Their quality is sufficient to pose a serious threat in terms of security and privacy, such as the reliability of news or defamation.
+            To prevent the threats, multiple neural networks--based methods to detect generated speech have been proposed.
+            In this work, we cover the topic of adversarial attacks, which decrease the performance of detectors by adding superficial (difficult to spot by a human) changes to input data.
+            Our contribution contains evaluating the robustness of 3 detection architectures against adversarial attacks in two scenarios (white-box and using transferability mechanism) and
+            enhancing it later by the use of adversarial training performed by our novel adaptive training method.
+            </p>
+            <section class="attack-section">
+                <h3>FGSM attacks</h3>
+                <table class="examples-table">
+                    <tbody>
+                        <tr>
+                            <th>Sample name</th>
+                            <th>Original sample</th>
+                            <th>FGSM (&epsilon;=0.0005)</th>
+                            <th>FGSM (&epsilon;=0.00075)</th>
+                            <th>FGSM (&epsilon;=0.001)</th>
+                        </tr>
+                        <!-- ROW 1  -->
+                        <tr>
+                            <td>
+                                1.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/reference/ykwk-1083.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/ppg2mel/ykwk-senone-1083.wav" type="audio/wav">No support for audio
+                                    tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/ppg2mel/ykwk-mono-1083.wav" type="audio/wav">No support for audio
+                                    tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                3.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/reference/ykwk-1108.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-baseline1-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-baseline2-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-proposed-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+            <section class="attack-section">
+
+                <h3>PGDL2 attacks</h3>
+                <table class="examples-table">
+                    <tbody>
+                        <tr>
+                            <th>Sample name</th>
+                            <th>Original sample</th>
+                            <th>PGDL2 (&epsilon;=0.10)</th>
+                            <th>PGDL2 (&epsilon;=0.15)</th>
+                            <th>PGDL2 (&epsilon;=0.20)</th>
+                        </tr>
+                        <!-- ROW 1  -->
+                        <tr>
+                            <td>
+                                1.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/reference/ykwk-1083.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/ppg2mel/ykwk-senone-1083.wav" type="audio/wav">No support for audio
+                                    tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/ppg2mel/ykwk-mono-1083.wav" type="audio/wav">No support for audio
+                                    tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                3.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/reference/ykwk-1108.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-baseline1-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-baseline2-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="wav/mel2mel/ykwk-proposed-1108.wav" type="audio/wav">No support for
+                                    audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </section>
+
+
+            <section class="attack-section">
+                <h3>FAB attacks</h3>
+                <table class="examples-table">
+                    <tbody>
+                        <tr>
+                            <th>Sample name</th>
+                            <th>Original sample</th>
+                            <th>FAB (&eta;=10)</th>
+                            <th>FAB (&eta;=20)</th>
+                            <th>FAB (&eta;=30)</th>
+                        </tr>
+                        <!-- ROW 1  -->
+                        <tr>
+                            <td>
+                                1.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="../assets/aa_df/sample.wav" type="audio/wav">No support for audio tag
+                                    in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                3.wav
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                            <td>
+                                <audio controls="">
+                                    <source src="" type="audio/wav">No support for audio tag in your browser.</source>
+                                </audio>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <h2>Citation</h2>
+            <p>If you want to cite this work, please use the following BibTeX-entry:</p>
+            <pre>
+<code>
+TBA
+</code>
+</pre>
+        </section>
+
+    </main>
+</body>
+
+</html>

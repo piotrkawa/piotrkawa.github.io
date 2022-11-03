@@ -7,13 +7,17 @@ permalink: /research/
 ---
 
 ### 2022:
+* Kawa, P., Plata, M., & Syga, P. [**Defense against Adversarial Attacks on Audio DeepFake Detection**](papers/adversarial_attacks.html)
+  * Preprint (Submitted to ICASSP 2023)
+  * PDF Coming soon
+  * [Implementation](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks)
+  * Topics: DeepFake detection, speech processing, audio processing, adversarial attacks
+
 * Kawa, P., Plata, M., & Syga, P. **SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**
   * Proceedings of TrustCom 2022
-  * PDF coming soon
+  * [PDF](https://arxiv.org/abs/2210.06105)
   * [Implementation](https://github.com/piotrkawa/specrnet)
   * Topics: DeepFake detection, speech processing, audio processing
-
-
 
 * Kawa, P., Plata, M., & Syga, P. **Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake**
   * Proceedings of INTERSPEECH 2022

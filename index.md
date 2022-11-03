@@ -12,6 +12,8 @@ layout: home
 ML Researcher & PhD student at the Department of Theoretical Physics in the Faculty of Fundamental Problems of Technology, Wrocław University of Science and Technology.
 
 
+#### [Demo](courses/aad.html)
+
 ## Research interests:
 
 Computer Vision, Audio / Speech Processing, Machine Learning, Computer Security
