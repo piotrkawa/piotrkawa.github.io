@@ -9,7 +9,7 @@ permalink: /research/
 ### 2022:
 * Kawa, P., Plata, M., & Syga, P. [**Defense against Adversarial Attacks on Audio DeepFake Detection**](papers/adversarial_attacks.html)
   * Preprint (Submitted to ICASSP 2023)
-  * PDF Coming soon
+  * [PDF](https://arxiv.org/abs/2212.14597)
   * [Implementation](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks)
   * Topics: DeepFake detection, speech processing, audio processing, adversarial attacks
 
