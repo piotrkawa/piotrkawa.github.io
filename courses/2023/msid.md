@@ -13,3 +13,25 @@ Prowadzone zajęcia:
 # Zajęcia #1
 
 [**Google Drive z materiałami**](https://drive.google.com/drive/folders/1OAUjwkkxxd7tVQD203a0LIAoRr170RKR)
+
+Proszę o wysłanie źródeł oraz gotowego pdf w pliku zip.
+
+Elementy:
+* tytuł,
+* autorzy,
+* data,
+* spis treści,
+* sekcja (podsekcja, podpodsekcja),
+* tekst,
+* tekst podkreślony,
+* tekst kursywa,
+* tekst wytłuszczony,
+* tekst podkreślony + kursywa + wytłuszczony,
+* lista punktowa,
+* lista wyliczeniowa,
+* równania inline,
+* równania w osobnej linii,
+* odwołanie do równania,
+* tabela,
+* obraz z podpisem,
+* bibliografia z cytowaniem.
