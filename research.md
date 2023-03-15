@@ -38,5 +38,3 @@ permalink: /research/
   * Tags: DeepFake detection, video processing, activation functions
 
 
-
-https://drive.google.com/drive/folders/1AWCgEiNNjV5dTTa6ZGRAhbu4y-y4njkG?usp=sharing
