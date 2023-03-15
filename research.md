@@ -36,3 +36,7 @@ permalink: /research/
   * arXiv preprint
   * [PDF](https://arxiv.org/abs/2006.05183)
   * Tags: DeepFake detection, video processing, activation functions
+
+
+
+https://drive.google.com/drive/folders/1AWCgEiNNjV5dTTa6ZGRAhbu4y-y4njkG?usp=sharing
