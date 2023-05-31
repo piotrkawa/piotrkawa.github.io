@@ -45,3 +45,9 @@ Elementy:
 
 
 Materiały znajdują się na [**Google Drive z materiałami**](https://drive.google.com/drive/folders/1OAUjwkkxxd7tVQD203a0LIAoRr170RKR) - "Zajęcia #7".
+
+
+## Zadanie domowe
+
+Proszę o przesłanie na mój adres mail wypełnionego notebooka - do 01.06.23 do 23:59:59.
+
