@@ -39,3 +39,9 @@ Elementy:
 * tabela,
 * obraz z podpisem,
 * bibliografia z cytowaniem.
+
+
+# Zajęcia #7 
+
+
+Materiały znajdują się na [**Google Drive z materiałami**](https://drive.google.com/drive/folders/1OAUjwkkxxd7tVQD203a0LIAoRr170RKR) - "Zajęcia #7".
