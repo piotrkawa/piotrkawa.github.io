@@ -16,7 +16,7 @@ ML Researcher & PhD student at the Department of Artificial Intelligence, Wrocł
 ## AITech - DeepFake workshop
 
 
-You can access the Colab notebook [here](https://colab.research.google.com/drive/1W4o0l6iGc1ThmqMS-4sR3CiHM9wGhDER?usp=sharing).
+You can access the Colab notebook [here](https://colab.research.google.com/drive/1V_FGQ6NPZgb6h_9N-VYoIcU6I7eWnAcK?usp=sharing).
 
 
 ## Research interests:
