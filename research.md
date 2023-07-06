@@ -7,17 +7,17 @@ permalink: /research/
 ---
 
 ### 2023:
+* Kawa, P., Plata, M., Czuba M., Szymański P., & Syga, P. **Improved DeepFake Detection Using Whisper Features**
+  * Accepted to INTERSPEECH 2023
+  * [PDF](https://arxiv.org/pdf/2306.01428.pdf)
+  * [Implementation](https://github.com/piotrkawa/deepfake-whisper-features)
+  * Topics: DeepFake detection, Whisper ASR, speech processing, audio processing
+
 * Kawa, P., Plata, M., & Syga, P. [**Defense against Adversarial Attacks on Audio DeepFake Detection**](papers/adversarial_attacks.html)
   * Accepted to INTERSPEECH 2023
   * [PDF](https://arxiv.org/abs/2212.14597)
   * [Implementation](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks)
   * Topics: DeepFake detection, speech processing, audio processing, adversarial attacks
-
-* Kawa, P., Plata, M., Czuba M., Szymański P., & Syga, P. [**Improved DeepFake Detection Using Whisper Features**]
-  * Accepted to INTERSPEECH 2023
-  * PDF: coming soon!
-  * Implementation: coming soon!
-  * Topics: DeepFake detection, Whisper ASR, speech processing, audio processing
 
 ### 2022:
 
