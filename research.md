@@ -13,8 +13,9 @@ permalink: /research/
   * [Implementation](https://github.com/piotrkawa/deepfake-whisper-features)
   * Topics: DeepFake detection, Whisper ASR, speech processing, audio processing
 
-* Kawa, P., Plata, M., & Syga, P. [**Defense against Adversarial Attacks on Audio DeepFake Detection**](papers/adversarial_attacks.html)
+* Kawa, P., Plata, M., & Syga, P. **Defense against Adversarial Attacks on Audio DeepFake Detection**
   * Accepted to INTERSPEECH 2023
+  * [Demo](papers/adversarial_attacks.html)
   * [PDF](https://arxiv.org/abs/2212.14597)
   * [Implementation](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks)
   * Topics: DeepFake detection, speech processing, audio processing, adversarial attacks
