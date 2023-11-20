@@ -13,10 +13,10 @@ ML Researcher & PhD student at the Department of Artificial Intelligence, Wrocł
 
 
 
-## AITech - DeepFake workshop
+## Tydzień Biometrii
 
 
-You can access the Colab notebook [here](https://colab.research.google.com/drive/1V_FGQ6NPZgb6h_9N-VYoIcU6I7eWnAcK?usp=sharing).
+You can access the notebook and the assets [here](https://drive.google.com/drive/folders/1Ozg3dGev8FJmr7aAYXg6IU7t96LJ4ADF?usp=sharing).
 
 
 ## Research interests:
