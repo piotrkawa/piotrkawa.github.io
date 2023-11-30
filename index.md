@@ -12,13 +12,6 @@ layout: home
 ML Researcher & PhD student at the Department of Artificial Intelligence, Wrocław University of Science and Technology.
 
 
-
-## Tydzień Biometrii
-
-
-You can access the notebook and the assets [here](https://drive.google.com/drive/folders/1Ozg3dGev8FJmr7aAYXg6IU7t96LJ4ADF?usp=sharing).
-
-
 ## Research interests:
 
 Audio / Speech Processing, Computer Vision, Machine Learning, Computer Security
