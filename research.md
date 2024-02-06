@@ -6,6 +6,13 @@ title: Research
 permalink: /research/
 ---
 
+### 2024:
+* Müller, N. M., Kawa, P., Choong, W. H., Casanova, E., Gölge, E., Müller, T., Syga, P., Sperl, P. & Böttinger, K. **MLAAD: The Multi-Language Audio Anti-Spoofing Dataset**
+  * Submitted to IJCNN 2024
+  * [PDF](https://arxiv.org/pdf/2401.09512)
+  * Topics: anti-spoofing, datasets, multi-language, speech processing, audio processing
+
+
 ### 2023:
 * Kawa, P., Plata, M., Czuba M., Szymański P., & Syga, P. **Improved DeepFake Detection Using Whisper Features**
   * Accepted to INTERSPEECH 2023
