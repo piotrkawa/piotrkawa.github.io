@@ -15,15 +15,15 @@ permalink: /research/
 
 ### 2023:
 * Kawa, P., Plata, M., Czuba M., Szymański P., & Syga, P. **Improved DeepFake Detection Using Whisper Features**
-  * Accepted to INTERSPEECH 2023
-  * [PDF](https://arxiv.org/pdf/2306.01428.pdf)
+  * Proceedings of INTERSPEECH 2023
+  * [PDF](https://www.isca-archive.org/interspeech_2023/kawa23b_interspeech.html)
   * [Implementation](https://github.com/piotrkawa/deepfake-whisper-features)
   * Topics: DeepFake detection, Whisper ASR, speech processing, audio processing
 
 * Kawa, P., Plata, M., & Syga, P. **Defense against Adversarial Attacks on Audio DeepFake Detection**
-  * Accepted to INTERSPEECH 2023
+  * Proceedings of INTERSPEECH 2023
   * [Demo](papers/adversarial_attacks.html)
-  * [PDF](https://arxiv.org/abs/2212.14597)
+  * [PDF](https://www.isca-archive.org/interspeech_2023/kawa23_interspeech.html)
   * [Implementation](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks)
   * Topics: DeepFake detection, speech processing, audio processing, adversarial attacks
 
@@ -37,7 +37,7 @@ permalink: /research/
 
 * Kawa, P., Plata, M., & Syga, P. **Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake**
   * Proceedings of INTERSPEECH 2022
-  * [PDF](https://arxiv.org/abs/2206.13979)
+  * [PDF](https://www.isca-archive.org/interspeech_2022/kawa22_interspeech.html)
   * [Implementation](https://github.com/piotrkawa/attack-agnostic-dataset)
   * Topics: neural networks generalization, DeepFake detection, speech processing, audio processing
 
