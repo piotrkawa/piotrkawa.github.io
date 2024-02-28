@@ -7,7 +7,7 @@ permalink: /teaching/
 ---
 
 ## 2024
-#### [Metody systemowe i decyzyjne](courses/2023/msid.md)
+#### [Metody systemowe i decyzyjne](courses/2024/msid.md)
 
 
 ## 2023
