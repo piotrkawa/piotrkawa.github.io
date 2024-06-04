@@ -12,3 +12,8 @@ Prowadzone zajęcia:
 
 Konsultacje:
 * D21/232 wtorek 11-12
+
+
+Materiały nt. uczenia maszynowego i uczenia głębokiego:
+* https://www.statlearning.com/,
+* https://www.deeplearning.ai/courses/.

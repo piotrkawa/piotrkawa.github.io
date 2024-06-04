@@ -8,12 +8,12 @@ permalink: /research/
 
 ### 2024:
 * Müller, N. M., Kawa, P., Hu, S., Williams, J., Sperl, P. & Böttinger, K. **A New Approach to Voice Authenticity**
-  * preprint
+  * Accepted to INTERSPEECH 2024
   * [PDF](https://arxiv.org/pdf/2402.06304.pdf)
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 
 * Müller, N. M., Kawa, P., Choong, W. H., Casanova, E., Gölge, E., Müller, T., Syga, P., Sperl, P. & Böttinger, K. **MLAAD: The Multi-Language Audio Anti-Spoofing Dataset**
-  * Submitted to IJCNN 2024
+  * Accepted to IJCNN 2024
   * [PDF](https://arxiv.org/pdf/2401.09512)
   * Topics: anti-spoofing, datasets, multi-language, speech processing, audio processing
 
