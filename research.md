@@ -13,7 +13,7 @@ permalink: /research/
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 
 * Müller, N. M., Kawa, P., Choong, W. H., Casanova, E., Gölge, E., Müller, T., Syga, P., Sperl, P. & Böttinger, K. **MLAAD: The Multi-Language Audio Anti-Spoofing Dataset**
-  * Accepted to IJCNN 2024
+  * Proceedings of IJCNN 2024
   * [PDF](https://arxiv.org/pdf/2401.09512)
   * Topics: anti-spoofing, datasets, multi-language, speech processing, audio processing
 
