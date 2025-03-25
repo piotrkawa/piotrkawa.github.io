@@ -15,7 +15,7 @@ permalink: /research/
   * Topics: generative audio, Kolmogorov-Arnold networks, hypernetworks, implicit neural representations
 
 * Müller, N., **Kawa, P.**, Stan, A., Doan, T.-P., Jung, S., Choong, W. H., Sperl, P., & Böttinger, K. *"DeePen: Penetration Testing for Audio Deepfake Detection"*
-  * arXi
+  * arXiv
   * [PDF](https://arxiv.org/pdf/2502.20427)
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 
