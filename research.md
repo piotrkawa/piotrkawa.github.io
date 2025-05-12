@@ -28,7 +28,7 @@ permalink: /research/
   * Topics: anti-spoofing, multi-language, speech processing, audio processing
 
 * Müller, N. M., **Kawa, P.**, Hu, S., Williams, J., Sperl, P. & Böttinger, K. *"A New Approach to Voice Authenticity"*
-  * Accepted to INTERSPEECH 2024
+  * Proceedings of INTERSPEECH 2024
   * [PDF](https://www.isca-archive.org/interspeech_2024/muller24_interspeech.pdf)
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 

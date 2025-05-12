@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-ML Researcher & PhD student at the Department of Artificial Intelligence, Wrocław University of Science and Technology.
+Deep Learning Researcher @ [Resemble AI](https://www.resemble.ai/) & PhD at the Department of Artificial Intelligence, Wrocław University of Science and Technology.
 
 
 ## Research interests:
