@@ -19,6 +19,13 @@ permalink: /research/
   * [PDF](https://arxiv.org/pdf/2502.20427)
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 
+
+* Müller, N., **Kawa, P.**, Choong, W. H., Stan, A., Bukkapatnam, A. T., Pizzi, K., Wagner, A., & Sperl, P. *"Replay Attacks Against Audio Deepfake Detection"*
+  * Accepted to INTERSPEECH 2025
+  * PDF soon
+  * Topics: anti-spoofing, datasets, speech processing, audio processing
+
+
 ### 2024:
 
 * Marek, B., **Kawa, P.**, Syga, P. *"Are audio DeepFake detection models polyglots?"*
