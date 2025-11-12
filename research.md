@@ -6,12 +6,18 @@ title: Research
 permalink: /research/
 ---
 
- 
-### 2025: 
 
-* Marszałek, P., Rut, M., **Kawa, P.**, & Syga, P. *"A Hypernetwork-Based Approach to KAN Representation of Audio Signals"*
-  * arXiv
-  * [PDF](https://arxiv.org/pdf/2503.02585)
+### 2025:
+
+
+* Galus, K., **Kawa, P.**, & Syga, P. *"WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing"*
+  * Accepted to WACV 2026,
+  * PDF coming soon,
+  * Topics: facial anti-spoofing, computer vision
+
+* Marszałek, P., Rut, M., **Kawa, P.**, Spurek, P. & Syga, P. *"As Good as It KAN Get: High-Fidelity Audio Representation"*
+  * Proceedings of CIKM 2025,
+  * [PDF](https://dl.acm.org/doi/abs/10.1145/3746252.3761405)
   * Topics: generative audio, Kolmogorov-Arnold networks, hypernetworks, implicit neural representations
 
 * Müller, N., **Kawa, P.**, Stan, A., Doan, T.-P., Jung, S., Choong, W. H., Sperl, P., & Böttinger, K. *"DeePen: Penetration Testing for Audio Deepfake Detection"*
@@ -21,8 +27,8 @@ permalink: /research/
 
 
 * Müller, N., **Kawa, P.**, Choong, W. H., Stan, A., Bukkapatnam, A. T., Pizzi, K., Wagner, A., & Sperl, P. *"Replay Attacks Against Audio Deepfake Detection"*
-  * Accepted to INTERSPEECH 2025
-  * [PDF](https://arxiv.org/pdf/2505.14862v1)
+  * Proceedings of INTERSPEECH 2025
+  * [PDF](https://www.isca-archive.org/interspeech_2025/muller25_interspeech.html)
   * [Dataset](https://deepfake-total.com/replay_df)
   * Topics: anti-spoofing, datasets, speech processing, audio processing
 
@@ -30,8 +36,8 @@ permalink: /research/
 ### 2024:
 
 * Marek, B., **Kawa, P.**, Syga, P. *"Are audio DeepFake detection models polyglots?"*
-  * arXiv
-  * [PDF](https://arxiv.org/pdf/2412.17924)
+  * Proceedings of 5th Symposium on Security and Privacy in Speech Communication,
+  * [PDF](https://www.isca-archive.org/spsc_2025/marek25_spsc.html)
   * [Implementation](https://github.com/bartlomiejmarek/are_audio_df_polyglots)
   * Topics: anti-spoofing, multi-language, speech processing, audio processing
 
