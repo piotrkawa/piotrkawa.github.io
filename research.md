@@ -6,14 +6,15 @@ title: Research
 permalink: /research/
 ---
 
+### 2026
+
+* Galus, K., Syga, P. & **Kawa, P.** *"WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing"*
+  * Proceedings WACV 2026,
+  * [PDF](https://openaccess.thecvf.com/content/WACV2026/papers/Galus_WSSSP-Net_Weakly_Supervised_Semantic_Segmentation_Plugin_Network_for_Face_Anti-Spoofing_WACV_2026_paper.pdf),
+  * Topics: facial anti-spoofing, computer vision
+
 
 ### 2025:
-
-
-* Galus, K., **Kawa, P.**, & Syga, P. *"WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing"*
-  * Accepted to WACV 2026,
-  * PDF coming soon,
-  * Topics: facial anti-spoofing, computer vision
 
 * Marszałek, P., Rut, M., **Kawa, P.**, Spurek, P. & Syga, P. *"As Good as It KAN Get: High-Fidelity Audio Representation"*
   * Proceedings of CIKM 2025,
