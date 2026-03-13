@@ -6,6 +6,11 @@ title: Teaching (PL)
 permalink: /teaching/
 ---
 
+
+## 2026
+#### [Biometria](courses/2026/biometrics.md)
+
+
 ## 2024
 #### [Metody systemowe i decyzyjne](courses/2024/msid.md)
 
