@@ -9,7 +9,7 @@ Prowadzone zajęcia:
 
 
 Konsultacje:
-* D21/232 piątek 13-14,
+* D21/232 piątek 13-15 (proszę o wcześniejszy kontakt mailowy).
 
 
 Materiały dotyczące kursu znajdują się na ePortalu.
