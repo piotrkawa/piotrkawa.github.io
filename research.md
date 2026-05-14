@@ -8,7 +8,7 @@ permalink: /research/
 
 ### 2026
 
-* Kawa P., Howil K., Borycki P., Adamczyk M., Spurek P. & Syga P.  *"APEX: Audio Prototype EXplanations for Classification Tasks"*
+* **Kawa P.**, Howil K., Borycki P., Adamczyk M., Spurek P. & Syga P.  *"APEX: Audio Prototype EXplanations for Classification Tasks"*
   * arXiv,
   * [PDF](https://arxiv.org/pdf/2605.10153),
   * Topics: explainable AI, audio classification
