@@ -8,6 +8,11 @@ permalink: /research/
 
 ### 2026
 
+* Kawa P., Howil K., Borycki P., Adamczyk M., Spurek P. & Syga P.  *"APEX: Audio Prototype EXplanations for Classification Tasks"*
+  * arXiv,
+  * [PDF](https://arxiv.org/pdf/2605.10153),
+  * Topics: explainable AI, audio classification
+
 * Galus, K., Syga, P. & **Kawa, P.** *"WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing"*
   * Proceedings WACV 2026,
   * [PDF](https://openaccess.thecvf.com/content/WACV2026/papers/Galus_WSSSP-Net_Weakly_Supervised_Semantic_Segmentation_Plugin_Network_for_Face_Anti-Spoofing_WACV_2026_paper.pdf),
